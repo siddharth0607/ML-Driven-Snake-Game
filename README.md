@@ -4,8 +4,8 @@
 
 # 1. Clone the repository
 ```bash
-git clone https://siddharth0607/ml-driven-snake-game.git
-cd ml-driven-snake-game
+git clone https://github.com/siddharth0607/ML-Driven-Snake-Game.git
+cd ML-Driven-Snake-Game
 ```
 
 # 2. Create a virtual environment
